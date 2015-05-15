@@ -1,3 +1,14 @@
+##for diane's grading:
+
+db name: tjh_bookstore
+db user: tjh_admin
+db pass: password
+
+site name: admin
+site pass: password
+
+
+##STANDARD DRUPAL README
 
 CONTENTS OF THIS FILE
 ---------------------
